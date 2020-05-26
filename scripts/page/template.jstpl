@@ -1,0 +1,15 @@
+import React, { useEffect, useState } from 'react';
+import './${pageConstName}.scss';
+
+// Components
+
+const ${pageConstName} = props => {
+
+    return (
+        <div className="${pageName}">
+            {/* Page body */}
+        </div>
+    )
+};
+
+export default Index;

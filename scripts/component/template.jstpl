@@ -1,0 +1,12 @@
+import React, { useState, useEffect } from 'react';
+import './${componentConstName}.scss';
+
+const ${componentConstName} = props => {
+    return (
+        <div className="${componentName}">
+            {/* Component body */}
+        </div>
+    )
+};
+
+export default ${componentConstName};
